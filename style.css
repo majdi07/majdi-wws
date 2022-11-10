@@ -1,0 +1,20 @@
+h1 {
+    color: red
+    ;
+}
+body {
+    font-family: 'roboto',sans-serif ;
+     
+}
+nav ul li {
+    display: inline;
+}
+h2{
+    color: blue;
+}
+.index2{
+    color: yellow;
+}
+#my header{
+    color: blue;
+}
